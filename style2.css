@@ -55,10 +55,10 @@ nav .menu{
 
 }
 nav .menu a{
-    width: 16%;
+    width: 100px;
     text-decoration: none; color: rgb(177, 207, 207);
     font-weight: bold;
-    margin: 0 10px;
+    margin: 0 25px 0 0;
     padding: 8px 15px;
     font-weight: bold;
     color: #bde9e4;
